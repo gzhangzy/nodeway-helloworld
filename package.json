@@ -1,0 +1,17 @@
+{
+  "name": "nodeway-helloworld",
+  "version": "0.1.5",
+  "description": "nodeway-component helloworld",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "require-from-url": "*"
+  },
+  "keywords": [
+    "nodeway-component",
+    "helloworld"
+  ],
+  "author": "john.zhang@yishizhencang.com",
+  "license": "MIT"
+}
